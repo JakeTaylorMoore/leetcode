@@ -14,6 +14,9 @@ class Solution(object):
         """
 
 
+# Here we go tryin again
+
+
 def main():
     a = Solution()
     image = [[1, 1, 1], [1, 1, 0], [1, 0, 1]]
