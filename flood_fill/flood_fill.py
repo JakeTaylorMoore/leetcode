@@ -16,6 +16,8 @@ class Solution(object):
 
 # Here we go tryin again
 
+# work?
+
 
 def main():
     a = Solution()
